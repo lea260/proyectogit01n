@@ -1,1 +1,1 @@
-<?php echo "el filipoper se embuta yogurt en la pija porque coge perros";
+<?php echo "nada de mensajes malintencionados";
