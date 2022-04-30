@@ -1,2 +1,2 @@
 <?php echo "hola mundo";
-echo "me gustan las chicas porque las grandes me parten al medio";
+echo "nada de mensajes malintencionados";

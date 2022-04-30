@@ -1,1 +1,1 @@
-<?php echo "conseguite una vieja sin dientes";
+<?php echo "nada de mensajes malintencionados";

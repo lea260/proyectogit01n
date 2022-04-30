@@ -1,1 +1,1 @@
-<?php echo "Hecho por Nicolás Filipovich ;)";
+<?php echo "nada de mensajes malintencionados";
