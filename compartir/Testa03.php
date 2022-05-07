@@ -1,5 +1,5 @@
 <?php
-$file = "Archivo de dios"
+$fi = "Archivo de satanas"
 
 
 ?>
