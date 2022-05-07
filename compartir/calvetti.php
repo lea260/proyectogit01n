@@ -1,1 +1,1 @@
-<?php echo "nada de mensajes malintencionados";
+<?php echo "nada de mensajes";
