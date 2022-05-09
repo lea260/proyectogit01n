@@ -1,9 +1,5 @@
 <?php
-<<<<<<< HEAD
-$fi = "Archivo de satanas"
-
-
-?>
-=======
-$filssssse = "Archivfgdfgfdfgdfgo de dios";
->>>>>>> 4f52148 (mensaje tienen que saltar)
+$fi              = "Archivo de madre teresa";
+$le              = "Archivo de jesus";
+$docientosveinte = "archivo de tu madre";
+$trolo           = "trabaja en tu proyecto fracasado";
