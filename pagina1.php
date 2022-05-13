@@ -9,11 +9,7 @@
 </head>
 
 <body>
-  <?php echo "mi primer programa"; ?>
-  <ul>
-    <li><a href="pagina1.php">texto 1</a></li>
-    <li><a href="pagina2.php?param01=hola&param02=mundo">texto 2</a></li>
-  </ul>
+  <h1>pagina2</h1>
 </body>
 
 </html>
