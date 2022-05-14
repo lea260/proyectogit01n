@@ -10,6 +10,11 @@
 
 <body>
   <?php echo "mi primer programa"; ?>
+  <ul>
+    <li>texto1</li>
+    <li>texto2</li>
+    <li>texto3</li>
+  </ul>
 </body>
 
 </html>
