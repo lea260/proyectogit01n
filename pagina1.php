@@ -9,7 +9,11 @@
 </head>
 
 <body>
-  <h1>pagina2</h1>
+  <h1>pagina1 recibe datos get</h1>
+  <?php $param01 = $_GET['param01'];
+$param01         = $_GET['param02'];
+echo $param01 . " " . $param02;
+?>
 </body>
 
 </html>

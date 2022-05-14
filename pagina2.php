@@ -9,10 +9,9 @@
 </head>
 
 <body>
-  <h1>pagina2</h1>
-  <?php $param01 = $_GET['param01'];
-$param01         = $_GET['param02'];
-?>
+  <h1>pagina</h1>
+
+  ?>
 </body>
 
 </html>
