@@ -11,9 +11,8 @@
 <body>
   <?php echo "mi primer programa"; ?>
   <ul>
-    <li>texto1</li>
-    <li>texto2</li>
-    <li>texto3</li>
+    <li><a href="pagina1.php?param01=hola&param02=mundo">pagina</a></li>
+    <li><a href="pagina2.php">texto 2</a></li>
   </ul>
 </body>
 
