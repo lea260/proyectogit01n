@@ -9,7 +9,17 @@
 </head>
 
 <body>
-  <?php var_dump($_POST);?>
+  <?php var_dump($_POST);
+$edad   = $_POST['edad'];
+$nombre = $_POST['nombre'];
+echo $edad . $nombre . "<br>";
+var_dump(isset($_POST['nombrer']));
+if (!isset($_POST['nombre'])) {
+    $nombre = "valor por defecto";
+}
+
+?>
+
 </body>
 
 </html>
