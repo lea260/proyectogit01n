@@ -14,7 +14,7 @@
 
 $param01 = $_GET['param01'];
 $param02 = $_GET['param02'];
-echo ($param01 + $param02)
+echo ($param01 . " " . $param02)
 ;?>
 </body>
 
