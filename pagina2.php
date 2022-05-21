@@ -9,9 +9,9 @@
 </head>
 
 <body>
-  <h1>pagina</h1>
+  <form action="" method="post">
 
-  ?>
+  </form>
 </body>
 
 </html>
