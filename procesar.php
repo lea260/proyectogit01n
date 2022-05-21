@@ -9,7 +9,15 @@
 </head>
 
 <body>
+  <?php
 
+var_dump($_POST);
+$edad   = $_POST["edad"];
+$nombre = $_POST["nombre"];
+echo $edad . $nombre . "<br>";
+var_dump(empty($nombre));
+
+?>
 </body>
 
 </html>
