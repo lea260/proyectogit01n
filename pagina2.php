@@ -9,8 +9,13 @@
 </head>
 
 <body>
-  <form action="" method="post">
-
+  <h1>Crear Persona</h1>
+  <form action="recibir.php" method="post">
+    <label for="edad">edad</label>
+    <input type="text" name="edad" id="edad" value="25">
+    <label for="">nombre</label>
+    <input type="text" name="nombre">
+    <input type="submit" value="enviar">
   </form>
 </body>
 
