@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>pagina 2</title>
+    <title>Chimilai</title>
 </head>
 <body>
     <h1>Crear Persona</h1>
