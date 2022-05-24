@@ -12,7 +12,7 @@
   <?php echo "welcome darling"; ?>
   <ul>
     <li><a href="pagina1.php?param01=hello&param02=world">pagina</a></li>
-    <li></li>
+    <li><a href="pagina2.php">pagina2</a></li>
   </ul>
   
 </body>
