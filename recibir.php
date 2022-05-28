@@ -9,13 +9,20 @@
 </head>
 
 <body>
-  <?php var_dump($_POST);
+  <?php
 $edad   = $_POST['edad'];
 $nombre = $_POST['nombre'];
 echo $edad . $nombre . "<br>";
 var_dump(isset($_POST['nombrer']));
 if (!isset($_POST['nombre'])) {
     $nombre = "valor por defecto";
+}
+$tel = [];
+if (isset($_POST['tel'])) {
+    $tel = $_POST['tel'];
+}
+foreach ($tel as $key => $value) {
+    echo $value . "<br>";
 }
 
 ?>
