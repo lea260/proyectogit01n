@@ -14,7 +14,26 @@
     <label for="edad">edad</label>
     <input type="text" name="edad" id="edad" value="25">
     <label for="">nombre</label>
+
     <input type="text" name="nombre">
+    <label for="">nombre</label>
+    <h1>telefonos</h1>
+    <input type="text" name="tel[]" value="tel01">
+    <input type="text" name="tel[]" value="tel02">
+    <input type="text" name="tel[]" value="tel03">
+    <br>
+    elija pais
+    <select name="pais">
+      <option value="1">pais 01</option>
+      <option value="3">pais 03</option>
+      <option value="4">pais 04</option>
+    </select>
+    <h2>radio</h2>
+    <br>
+    <input type="radio" name="operacion" value="suma">sumar
+    <br>
+    <input type="radio" name="operacion" value="resta">restar
+    <br>
     <input type="submit" value="enviar">
   </form>
 </body>
