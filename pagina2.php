@@ -23,10 +23,17 @@
     <input type="text" name="tel[]" value="tel03">
     <br>
     elija pais
-    <select name="pais">
-      <option value="1">pais 01</option>
-      <option value="3">pais 03</option>
-      <option value="4">pais 04</option>
+    <?php $listaPaises = ["Uruguay", "Argentina", "Brasil"];
+$pais                  = "Uruguay";?>
+    <select name="" id="">
+      <?php for ($i = 0; $i < count($listaPaises); $i++) {
+    if ($listaPaises[$i] == $pais) {
+        ?><option value="" selected><?=$pais;?></option>
+      <?php } else {
+        ?><option value=""><?=$listaPaises[$i];?></option>
+      <?php }}
+;?>
+
     </select>
     <h2>radio</h2>
     <br>
